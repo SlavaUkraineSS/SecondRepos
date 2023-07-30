@@ -1,0 +1,8 @@
+﻿bin/
+obj/
+appsetings.Develepment.json
+appsetings.Production.json
+temp/
+cache/
+.vs/
+.suo
